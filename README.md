@@ -1,3 +1,3 @@
 
 
-This is gammy's git project !
+This is gamaliel's git project !
